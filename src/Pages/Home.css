@@ -1,0 +1,9 @@
+.home{
+    margin:auto;
+    margin-left:200px;
+    margin-right: 200px;
+}
+.carr{
+    display: flex;
+    justify-content: center;
+}
